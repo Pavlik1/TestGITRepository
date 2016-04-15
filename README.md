@@ -1,4 +1,0 @@
-"# TestGITRepository" 
-Pavlo
-qwerwerw
-werwer
