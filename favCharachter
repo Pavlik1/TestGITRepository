@@ -1,5 +1,6 @@
-if ( true ){
+//changes from test user 11:17
+if ( trueVar or notTrueVar ){
 	print( true );
 } else {
-	print( false );
+	print( "test user is always better false" );
 }
