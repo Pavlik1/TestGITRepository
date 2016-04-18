@@ -1,4 +1,5 @@
-//changes from test user 11:17 AND AGAIN !
+//changes from test user 11:17 AND AGAIN ! 
+//changes from Pavlik this must override 11:30
 if ( trueVar or notTrueVar ){
 	print( true );
 } else {
