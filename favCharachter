@@ -7,4 +7,6 @@ if ( trueVar or notTrueVar ){
 	print( "test user is always better false" );
 	print( "test user is always good" );
 	print( "test user is always better false" );
+	
+	//pavlik is working here 12:37
 }
