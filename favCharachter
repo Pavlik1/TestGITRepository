@@ -8,5 +8,5 @@ if ( trueVar or notTrueVar ){
 	print( "test user is always good" );
 	print( "test user is always better false" );
 	
-	//little change12
+	//little change by test 12:33
 }
