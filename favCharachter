@@ -1,0 +1,17 @@
+//changes from test user 11:17 its OK! 
+// --- MERGED BY Test User! ------
+//changes from Pavlik this must override 11:30
+if ( trueVar or notTrueVar ){
+	print( true );
+} else {
+	print( "test user is always better false" );
+	print( "test user is always good" );
+	print( "test user is always better false" );
+	
+	//pavlik is working here 12:37
+	//little change by test 12:33
+	
+	//check out pull requests
+}
+
+Hello this is my new feature from Pavlik! yo yo yo
